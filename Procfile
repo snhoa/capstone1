@@ -1,1 +1,1 @@
-web: gunicorn EIP_Master.wsgi
+web:gunicorn EIP_Master.wsgi
